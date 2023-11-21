@@ -31,8 +31,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: SOUVIK KUNDU
+### Register Number: 212221230105
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
